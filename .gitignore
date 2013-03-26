@@ -178,3 +178,6 @@ conf.zip
 ## Node
 #############
 node_modules/
+src/js/libs/
+jslint/
+public/
